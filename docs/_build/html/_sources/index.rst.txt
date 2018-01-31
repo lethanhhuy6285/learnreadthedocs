@@ -8,8 +8,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   gettingstarted/index
-   apis/index
+   gettingstarted
+   apis
    
 Indices and tables
 ------------------
